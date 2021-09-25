@@ -1,4 +1,4 @@
-### Hi there, I'm Syed Arsalan Amin - aka [Arsalan](https://syedarsalanamin.github.io/Aboutme/) 👋
+### Hi there, I'm Syed Arsalan Amin - aka [Arsalan](https://syedarsalanamin.github.io/SyedArsalanAmin/) 👋
 
 I'm a passionate Data Scientist
 
