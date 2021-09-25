@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/SyedArsalanAmin/Aboutme/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedArsalanAmin&show_icons=true&theme=radical)
+
+
+
 ### Markdown
 
 Data Scientist who loves to tackle complex data science problems using machine and deep learning. Always ready to catch opportunities :)
