@@ -5,10 +5,10 @@ I'm a passionate Data Scientist
 **About me**
 
 - ❤️ Loves to tackle real world problems using machine learning.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Data Science, Data Engineering and Machine learning projects deployment.
 - 👯 I’m looking to collaborate with other Data scientist.
 - 🥅 2021 Goals: Contribute more to Open Source projects and be a source of inspiration for others 🤤
-- ⚡ Fun fact: I love to learn new things everyday.
+- ⚡ Fun fact: I love to implement cool projects.
 
 
 | <a href="https://github.com/SyedArsalanAmin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedArsalanAmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arsalan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArsalanAmin&layout=compact&theme=buefy&hide_border=true" /></a> |
