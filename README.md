@@ -7,7 +7,7 @@ I'm a passionate Data Scientist
 - ❤️ Loves to tackle real world problems using machine learning.
 - 🌱 I’m currently learning Data Science, Data Engineering and Machine learning projects deployment.
 - 👯 I’m looking to collaborate with other Data scientist.
-- 🥅 2021 Goals: Contribute more to Open Source projects and be a source of inspiration for others 🤤
+- 🥅 2022 Goals: Contribute more to Open Source projects and be a source of inspiration for others 🤤
 - ⚡ Fun fact: I love to implement cool projects.
 
 
