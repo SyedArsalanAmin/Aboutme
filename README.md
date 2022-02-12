@@ -9,6 +9,7 @@ I'm a passionate Data Scientist
 - 👯 I’m looking to collaborate with other Data scientist.
 - 🥅 2022 Goals: Contribute more to Open Source projects and be a source of inspiration for others 🤤
 - ⚡ Fun fact: I love to implement cool projects.
+- 📧 How to reach me:Sarsalanamin12@gmail.com
 
 
 | <a href="https://github.com/SyedArsalanAmin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedArsalanAmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arsalan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArsalanAmin&layout=compact&theme=buefy&hide_border=true" /></a> |
