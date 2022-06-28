@@ -1,7 +1,11 @@
 ### Hi there, I'm Syed Arsalan Amin - aka [Arsalan](https://syedarsalanamin.github.io/SyedArsalanAmin/) 👋
 
-I'm a passionate Data Scientist
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
+
+I'm a passionate Data Scientist
 **About me**
 
 - ❤️ Loves to tackle real world problems using machine learning.
@@ -12,7 +16,11 @@ I'm a passionate Data Scientist
 - 📧 How to reach me:Sarsalanamin12@gmail.com
 
 
-| <a href="https://github.com/SyedArsalanAmin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedArsalanAmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arsalan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArsalanAmin&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
 | ------------- | ------------- |
 
 - [Website](https://syedarsalanamin.github.io/Aboutme/)
