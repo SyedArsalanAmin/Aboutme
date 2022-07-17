@@ -3,7 +3,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=nxtbyt&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/nxtbyt?color=971901&logo=githubb&label=FOLLOWERS"/>
 
 I'm a passionate Data Scientist
 **About me**
