@@ -1,7 +1,7 @@
 ### Hi there, I'm Syed Arsalan Amin - aka [Arsalan](https://syedarsalanamin.github.io/SyedArsalanAmin/) 👋
 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/nxtbyt)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=nxtbyt&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
 I'm a passionate Data Scientist
