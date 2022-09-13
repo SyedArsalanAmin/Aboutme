@@ -14,7 +14,6 @@ I'm a passionate Data Scientist
 - ⚡ Fun fact: I love to implement cool projects.
 - 📧 How to reach me: sarsalanamin12@gmail.com
 
-![nxtbyt GitHub stats](https://github-readme-stats.vercel.app/api?username=nxtbyt&show_icons=true&theme=algolia)
   ---
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
